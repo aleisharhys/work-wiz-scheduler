@@ -1,0 +1,37 @@
+/* Custom CSS file */
+
+/* Set the background color for the time blocks */
+.past {
+  background-color: #bc85a3;
+  color: #000000;
+}
+
+.present {
+  background-color: #b66b94;
+  color: #000000;
+}
+
+.future {
+  background-color: #f0abd1;
+}
+
+/* Set the style for the save button */
+.saveBtn {
+  border: none;
+  background-color: #bc85a3; /* Lilac color for the save button */
+  color: #ffffff;
+  cursor: pointer; /* Add a pointer cursor */
+}
+
+.saveBtn:hover {
+  background-color: #836fff; /* Lighter lilac on hover */
+  color: #ffffff;
+}
+
+/* Update the header color */
+.jumbotron {
+  background-color: #bc85a3;
+  color: #ffffff;
+}
+
+/* Custom CSS file */
